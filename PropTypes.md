@@ -8,7 +8,9 @@ To ensure type safety with PropTypes in React, you define the expected types for
 npm install prop-types
 ```
 
-### Define PropTypes: In your component, you can specify the expected prop types like this:
+### Define PropTypes: 
+
+In your component, you can specify the expected prop types like this:
 
 ```jsx
 import PropTypes from 'prop-types';
