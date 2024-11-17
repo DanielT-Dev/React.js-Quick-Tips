@@ -9,5 +9,6 @@
 - [Using state variables in React.js with the useState hook](https://github.com/DanielT-Dev/React.js-Quick-Tips/blob/main/State.md)
 - [Avoid Re-Rendering with React.memo](https://github.com/DanielT-Dev/React.js-Quick-Tips/blob/main/Memo.md)
 - [Optimize React Component Re-Renders with useCallback](https://github.com/DanielT-Dev/React.js-Quick-Tips/blob/main/useCallback.md)
+- [Ensure Type safety with Prop Types]()
 
 ### 🚀 Hope you find it useful ! ⭐
