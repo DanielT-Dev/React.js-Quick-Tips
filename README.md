@@ -10,5 +10,6 @@
 - [Avoid Re-Rendering with React.memo](https://github.com/DanielT-Dev/React.js-Quick-Tips/blob/main/Memo.md)
 - [Optimize React Component Re-Renders with useCallback](https://github.com/DanielT-Dev/React.js-Quick-Tips/blob/main/useCallback.md)
 - [Ensure Type safety with Prop Types](https://github.com/DanielT-Dev/React.js-Quick-Tips/blob/main/PropTypes.md)
+- [Manage Global State with React.js Context API](https://github.com/DanielT-Dev/React.js-Quick-Tips/blob/main/useContext.md)
 
 ### 🚀 Hope you find it useful ! ⭐
